@@ -3,9 +3,13 @@
 
 #include <iostream>
 
-int main()
+using namespace std;
+
+int main(void)
 {
-    std::cout << "Hello World!\n";
+	cout << "Hello new world!" << endl;
+
+	return false;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
