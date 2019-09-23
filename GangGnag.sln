@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GangGnag", "GangGnag\GangGnag.vcxproj", "{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Debug|x64.ActiveCfg = Debug|x64
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Debug|x64.Build.0 = Debug|x64
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Debug|x86.Build.0 = Debug|Win32
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Release|x64.ActiveCfg = Release|x64
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Release|x64.Build.0 = Release|x64
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Release|x86.ActiveCfg = Release|Win32
+		{A8E95B38-4004-42E0-A53F-A6C3C0F91ACC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C903E803-7F06-40E9-B4FB-440AF2A10740}
+	EndGlobalSection
+EndGlobal
